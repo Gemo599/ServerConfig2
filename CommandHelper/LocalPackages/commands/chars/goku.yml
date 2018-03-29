@@ -28,9 +28,9 @@ permissions:
 powers:
 - /effects
 - /items
-- /jump 0-5
-- /run 0-5
-- /haste 0-5
+- /jump 0-50
+- /run 0-50
+- /haste 0-50
 - /flyspeed <number>
 - /fly
 - /tp <player>
@@ -39,7 +39,8 @@ powers:
 - /dropplayer
 - /herotransform
 run: 5
-speech: I will be the strongest in the UNIVERSE!!
+speech: Hello  I am GEM!
+
 trail: [
   ]
 transformations:
