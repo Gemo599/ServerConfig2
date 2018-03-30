@@ -1,0 +1,48 @@
+class: gemo
+costumes:
+- chatcolor: '&5'
+  name: §5G§4e§fm
+  sig:
+  val:
+effects:
+- /effect <plr> 11 9999 99 true
+- /effect <plr> 12 9999 99 true
+- /effect <plr> 3 9999 99 true
+items:
+- /mgive <plr> cosmicboltwand
+- /mgive <plr> telekinesiswand
+- /mgive <plr> acceleratetimewand
+- /give <plr> minecraft:diamond sword name:&5Gem's &4Knife
+permissions:
+  superherocity:
+  - immune.destroyworld
+  - powers.depower
+  - powers.destroyworld
+  - powers.onepunch
+  - ch.alias.create
+  - essentials.fly
+  - ch.alias.tp
+  - ch.alias.mindcontrol
+  - ch.alias.intangible
+  - ch.alias.tangible
+  - ch.alias.enchant
+  - ch.alias.tphere
+  - essentials.skull
+  - essentials.skull.*
+  - ch.alias.explode
+  powers:
+  - /skull
+  - /create
+  - /destroyworld
+  - /fly
+  - /tp
+  - /mindcontrol
+  - /intangible
+  - /tangible
+  - /enchant
+  - /depower
+  - /explode
+  - Every one punch destroys a galaxy.
+  speech: Well, DIDN'T YOU REALIZED? I AM STRONGER.
+  trail: [
+  ]
