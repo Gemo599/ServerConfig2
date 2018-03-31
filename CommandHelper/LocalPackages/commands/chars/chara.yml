@@ -1,0 +1,25 @@
+class: chara
+costumes:
+- chatcolor: '&4'
+  name: §4Chara
+  sig: F/pFezO3vHEctwPlEwIGUtJzw1mEZM6uSn7M9r8DGhQjPwAgS5qQG1wqE4sodQN28G79Sz610aP06hveqi8PMu/8oWbIVHNlM8uMaJT+Q0ponlh5w0o+NwjsGmYgXXRecx24XArX5cpvy5ojyeBhALY0oez60Wc4mLjdnGs3UhDLeu6iU46bopejQhcqcqTJFNf6I2W1Ydzpo2uY9EzJQT0yD+GMgS1Mb6itBH9d33vyLhfd1h5zJhwYoUimS7yuFp5f9+bAQ0J3RjEiLCbPNe/E18smLzSguFWP+q6W/G2HYQNVNAf70gWBXEsUPCkbyRRInzh1XR2xMcJmKlR2Teral/OJPLlPLjPFsn9O/rlv+xDEqNr44ucM/yaI7OEYtzDaqYxDiJsAzyJiCzg2p2j70TM6EXnS8Q4TjumvPYhEo+tClXX0xC8zK0qJ+rB5yHIuMb3L4YyT+g19SwqtVJ/q5+Psw55NxlxTG9jw+wz8omfGvOP07I8086YoJeSuQnbaLQW0CdN6Z1sXh13ShchmrQeX5UlH1SGWgWVOA9BfZMvcYn9e3vwY0vxmgBwQLsNDCMBERp+kTrhYCB0vpLNgVuPMkgDDg1z/ytgiQpDNwkaRAaGBK6DMDch3+zfCYTaCur2K84N8AAkblsgm4AfhKRLrW/CmyS6+lQrJYKo=
+  val: eyJ0aW1lc3RhbXAiOjE1MjI1MzM3Mzc1MjQsInByb2ZpbGVJZCI6IjYxZTZlMThjMTc2NjRhZjM4NWI4YWM5NTg5YTU2ZWYzIiwicHJvZmlsZU5hbWUiOiJHZW1vNTk5Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7p:/IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMWVhNzUyY2QyYTFmMmI0MjdmMTViZjI3YTgxNzEzNmI2YWM4MzBlN2JmMzQzMDhhZjZkN2EyYjE4NzYifX19
+effects:
+- /effect <plr> 5 9999 99 
+- /effect <plr> 11 9999 99
+items:
+- /give <plr> minecraft:iron_sword 16:99 name:&4Real Knife
+permissions:
+  superherocity:
+  - ch.alias.mindcontrol
+  - immune.destroyworld
+  - powers.onepunch
+powers:
+- /mindcontrol <plr>
+- /destroyworld
+- /run 5
+- Everything you stab, dies.
+run: 5
+speech: You can't dodge forever!
+trails: [
+]
