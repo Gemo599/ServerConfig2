@@ -10,7 +10,7 @@ effects:
 items:
 - /shot give <plr> sandblast
 - /mgive <plr> sandwallwand
-maxHearts: 30
+maxHearts: 20
 permissions:
   superherocity:
   - ch.alias.grow
